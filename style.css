@@ -1,0 +1,29 @@
+
+body {
+   background-image: url(https://i.postimg.cc/cCf6bgQ6/literatura-da-biblioteca-registra-o-fundo-do-vetor-dos-desenhos-animados-123962132.jpg);
+  background-size: ;
+}
+nav a{
+  background-color: black;
+  position: absolute;
+  font-family: stencil std;
+  font-size: 70px;
+  color: white;
+  text-docoration: none;
+  left: 10px;
+  right:;
+  top:150px;
+}
+h1{
+  background-color: black;
+  position: absolute;
+  text-align: center;
+  font-size: 50px;
+  font-family:;
+  color: white;
+}
+h2{
+  position: absolute;
+  left: 600px;
+  top: 200px;
+}
