@@ -1,0 +1,64 @@
+h1{
+  backgroud: #;]
+   font-size:60px;
+}
+body {
+  backgroud: #;
+}
+
+p {
+    text-align: center;
+}
+#entrada{
+  
+}
+em strong {
+    color: #FF0000;
+}
+header{
+  backgroud: #BBBBBB;
+}
+.caixa {
+  width: 940px;
+  margin: 0 auto;
+}
+nav{
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a {
+  text-tranform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 22px;
+  text-docoration: nome;
+}                             
+h3{
+ color: orange;
+ font-family: Italic;
+}
+h10{
+   color: red;
+ font-family: Italic;
+   font-size:60px;
+
+}
+h9{
+   color: orange;
+ font-family: Italic;
+   font-size:60px;
+}
+h4{
+ color: red;
+ font-family: Italic;
+    text-docoration: nome;
+}
+h13{
+ color: black;
+ font-size:60px;
+}
